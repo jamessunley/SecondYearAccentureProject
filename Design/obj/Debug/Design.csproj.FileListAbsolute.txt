@@ -1,0 +1,10 @@
+C:\Users\James\Documents\Computer Science Year 2\Software Engineering Year 2\Group Work\Design\Design\bin\Debug\Design.exe.config
+C:\Users\James\Documents\Computer Science Year 2\Software Engineering Year 2\Group Work\Design\Design\bin\Debug\Design.exe
+C:\Users\James\Documents\Computer Science Year 2\Software Engineering Year 2\Group Work\Design\Design\bin\Debug\Design.pdb
+C:\Users\James\Documents\Computer Science Year 2\Software Engineering Year 2\Group Work\Design\Design\obj\Debug\Design.csprojResolveAssemblyReference.cache
+C:\Users\James\Documents\Computer Science Year 2\Software Engineering Year 2\Group Work\Design\Design\obj\Debug\Design.Properties.Resources.resources
+C:\Users\James\Documents\Computer Science Year 2\Software Engineering Year 2\Group Work\Design\Design\obj\Debug\Design.csproj.GenerateResource.Cache
+C:\Users\James\Documents\Computer Science Year 2\Software Engineering Year 2\Group Work\Design\Design\obj\Debug\Design.exe
+C:\Users\James\Documents\Computer Science Year 2\Software Engineering Year 2\Group Work\Design\Design\obj\Debug\Design.pdb
+C:\Users\James\Documents\Computer Science Year 2\Software Engineering Year 2\Group Work\Design\Design\obj\Debug\Design.Comments.resources
+C:\Users\James\Documents\Computer Science Year 2\Software Engineering Year 2\Group Work\Design\Design\obj\Debug\Design.Form1.resources
